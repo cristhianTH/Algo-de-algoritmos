@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<time.h>
-//Programa que imprime numeroas pseudoaleatorios de 1, 3 y 5 cifras con 20%, 30% y 50% de probabilidad
+//Programa que imprime numeros pseudoaleatorios de 1, 3 y 5 cifras con 20%, 30% y 50% de probabilidad
 
 void spc();
 main(){
